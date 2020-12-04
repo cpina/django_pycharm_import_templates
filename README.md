@@ -26,5 +26,7 @@ def say_a():
     return 'a'
 ```
 
+See what is PyCharm highlighting on [test_templates/templates/test_templates/index.html](https://github.com/cpina/django_pycharm_import_templates/blob/main/test_templates/templates/test_templates/index.html):
+
 Django has no problem using `say_b` but PyCharm displays it with a warning:
 ![screenshot pycharm highligh](pycharm_highlight.png)
